@@ -1,0 +1,8 @@
+cd (change directy)
+cd .. (retornar)
+dir (lista de diretorios)
+mkdir (criar pasta)
+del (remove pastas)
+rmdir (remove diretorio)
+echo (print)
+cls (limpar tela)
